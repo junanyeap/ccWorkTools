@@ -1,0 +1,9 @@
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\bin\Debug\ccWorkTools.exe.config
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\bin\Debug\ccWorkTools.exe
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\bin\Debug\ccWorkTools.pdb
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\obj\Debug\ccWorkTools.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\obj\Debug\ccWorkTools.Form1.resources
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\obj\Debug\ccWorkTools.Properties.Resources.resources
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\obj\Debug\ccWorkTools.csproj.GenerateResource.cache
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\obj\Debug\ccWorkTools.exe
+C:\Users\junan\source\repos\ccWorkTools\ccWorkTools\obj\Debug\ccWorkTools.pdb
